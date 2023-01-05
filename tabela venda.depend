@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672951216 source:c:\users\eloca\onedrive\Área de trabalho\codeck texte\tabela venda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
